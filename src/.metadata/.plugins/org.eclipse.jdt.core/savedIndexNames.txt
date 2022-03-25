@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+/Users/cpa6557/Documents/GitHub/mathmethods_labs-CollinPArnold/src/.metadata/.plugins/org.eclipse.jdt.core
+171953904.index
+3777736917.index
+2680105604.index
+3308645641.index
+664077879.index
+743110313.index
+1018768379.index
+314807000.index
+873286129.index
+1595954586.index
+3157158754.index
+1252429768.index
+3809407495.index
+1241623350.index
+869476395.index
+3787740244.index
